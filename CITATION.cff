@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "ARCA: Attention-Routed Contrastive Attribution — audit of tabular attention models"
+authors:
+  - family-names: Singh
+    given-names: Harpreet
+  - family-names: Singh
+    given-names: Baldeep
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
+repository-code: "https://github.com/harpreetsj/attention-weights-audit"
+preferred-citation:
+  type: article
+  title: "Are Attention Weights Explanations? A Ground-Truth-Anchored Faithfulness and Stability Audit of Tabular Attention Models for Employee Burnout and Turnover Risk"
+  authors:
+    - family-names: Singh
+      given-names: Harpreet
+    - family-names: Singh
+      given-names: Baldeep
+  journal: "International Journal of Intelligent Engineering and Systems"
+  year: 2026
